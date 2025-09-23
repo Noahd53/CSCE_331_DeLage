@@ -1,1 +1,1 @@
-# CSCE_331_DeLage
+This is a personal website project for my CSCE 331 class.
